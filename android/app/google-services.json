@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855327941409",
+    "project_id": "my-firebase-project-97c5e",
+    "storage_bucket": "my-firebase-project-97c5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855327941409:android:a760a3aafb347287671460",
+        "android_client_info": {
+          "package_name": "com.santos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxWmn0gysUESxr2c7FXSD1IMHke-N_fDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
